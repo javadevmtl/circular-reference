@@ -1,0 +1,12 @@
+com/acme/Movie.java
+ com.acme.Movie
+com/acme/MovieRequestDeserializer.java
+ com.acme.MovieRequestDeserializer
+com/acme/MovieProcessor.java
+ com.acme.MovieProcessor
+com/acme/MovieResource.java
+ com.acme.MovieResource
+com/acme/MovieRetryProcessor.java
+ com.acme.MovieRetryProcessor
+com/acme/MovieRequestSerializer.java
+ com.acme.MovieRequestSerializer
