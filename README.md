@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # circular-reference project
 Project is simple there is one resource at `http://localhost:8080/movies/`.
 
